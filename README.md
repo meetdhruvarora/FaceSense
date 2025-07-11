@@ -1,6 +1,6 @@
 # FaceSense
 
-**FaceSense** is a real-time emotion detection and video analysis system that combines computer vision, deep learning, and speech recognition. It performs facial expression classification, eye-tracking, and audio transcription to detect emotions and context-based behavior — ideal for surveillance, remote interviews, and academic integrity monitoring.
+**FaceSense** is a real-time emotion detection and video analysis system that combines computer vision, deep learning, and speech recognition. It performs facial expression classification, eye-tracking, and audio transcription to detect emotions and context-based behavior which is ideal for surveillance, remote interviews, and academic integrity monitoring.
 
 ---
 
